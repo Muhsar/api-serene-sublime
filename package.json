@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "tsc --project ./",
     "start": "nodemon server.ts"
   },
   "dependencies": {
